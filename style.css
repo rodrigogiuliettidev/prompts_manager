@@ -110,7 +110,7 @@ button {
 .prompt-title {
   font-weight: 600;
   font-size: 32px;
-  border: none;
+  outline: none;
 }
 
 .prompt-content {
