@@ -111,6 +111,7 @@ button {
   font-weight: 600;
   font-size: 32px;
   outline: none;
+  color: var(--white);
 }
 
 .prompt-content {
