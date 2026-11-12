@@ -38,6 +38,10 @@ export default function LoginScreen() {
         <p className="login-note">
           Já usava o app antes? Depois de entrar, você pode importar os prompts salvos neste navegador.
         </p>
+        <p className="login-legal">
+          Ao entrar, você concorda com os <a href="/terms">Termos de Uso</a> e a{" "}
+          <a href="/privacy">Política de Privacidade</a>.
+        </p>
       </div>
     </main>
   );
